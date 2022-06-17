@@ -1,7 +1,6 @@
-### Hi there 👋
+**NohHandeul/NohHandeul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
-**NohHandeul/NohHandeul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NohHandeul&show_icons=true&theme=radical)
